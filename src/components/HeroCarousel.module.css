@@ -1,0 +1,12 @@
+.custom-button {
+  background-color: lightcoral;
+  border-color: lightcoral;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.custom-button:hover {
+  background-color: white;
+  border-color: lightcoral;
+  color: lightcoral;
+}
